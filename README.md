@@ -1,4 +1,5 @@
 # hello-world
-start with git
-go through tutorial
-try sharing
+
+Hello!
+
+Let's try how this thing works. Seems pretty cool!
